@@ -1,0 +1,14 @@
+.container{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap: 1rem;
+}
+.cardComponent{
+   display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.image{
+  height: 200px;
+  border-radius: .5rem;
+}

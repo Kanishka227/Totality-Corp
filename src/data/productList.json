@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Sunny Villa",
+    "location": {
+      "address": "123 Sunshine Blvd",
+      "city": "Miami",
+      "state": "FL",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "price": 750000,
+    "img": "/images/property-1.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 2,
+    "name": "Urban Apartment",
+    "location": {
+      "address": "456 Downtown Ave",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "price": 1200000,
+    "img": "/images/property-2.jpg",
+    "bedrooms": 2
+  },
+  {
+    "id": 3,
+    "name": "Country Cottage",
+    "location": {
+      "address": "789 Countryside Rd",
+      "city": "Nashville",
+      "state": "TN",
+      "zipCode": "37201",
+      "country": "USA"
+    },
+    "price": 350000,
+    "img": "/images/property-23.jpg",
+    "bedrooms": 1
+  },
+  {
+    "id": 4,
+    "name": "Modern Loft",
+    "location": {
+      "address": "789 Cityview St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90001",
+      "country": "USA"
+    },
+    "price": 950000,
+    "img": "/images/property-4.jpg",
+    "bedrooms": 6
+  },
+  {
+    "id": 5,
+    "name": "Suburban House",
+    "location": {
+      "address": "678 Maple Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "73301",
+      "country": "USA"
+    },
+    "price": 450000,
+    "img": "/images/property-5.jpg",
+    "bedrooms": 3
+  },
+  {
+    "id": 6,
+    "name": "Beachfront Condo",
+    "location": {
+      "address": "234 Oceanview Ln",
+      "city": "San Diego",
+      "state": "CA",
+      "zipCode": "92101",
+      "country": "USA"
+    },
+    "price": 850000,
+    "img": "/images/property-6.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 7,
+    "name": "Historic Mansion",
+    "location": {
+      "address": "321 Oldtown Rd",
+      "city": "Charleston",
+      "state": "SC",
+      "zipCode": "29401",
+      "country": "USA"
+    },
+    "price": 1500000,
+    "img": "/images/property-7.jpg",
+    "bedrooms": 2
+  },
+  {
+    "id": 8,
+    "name": "Penthouse Suite",
+    "location": {
+      "address": "890 Skyline Ave",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60601",
+      "country": "USA"
+    },
+    "price": 2000000,
+    "img": "/images/property-8.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 9,
+    "name": "Country Estate",
+    "location": {
+      "address": "567 Country Ln",
+      "city": "Dallas",
+      "state": "TX",
+      "zipCode": "75201",
+      "country": "USA"
+    },
+    "price": 1250000,
+    "img": "/images/property-9.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 10,
+    "name": "Mountain Cabin",
+    "location": {
+      "address": "654 Pine Ridge",
+      "city": "Aspen",
+      "state": "CO",
+      "zipCode": "81611",
+      "country": "USA"
+    },
+    "price": 500000,
+    "img": "/images/property-10.jpg",
+    "bedrooms": 1
+  },
+  {
+    "id": 11,
+    "name": "Lakefront Home",
+    "location": {
+      "address": "987 Lakeside Dr",
+      "city": "Lake Tahoe",
+      "state": "NV",
+      "zipCode": "89449",
+      "country": "USA"
+    },
+    "price": 900000,
+    "img": "/images/property-11.jpg",
+    "bedrooms": 6
+  },
+  {
+    "id": 12,
+    "name": "Downtown Studio",
+    "location": {
+      "address": "345 Market St",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94101",
+      "country": "USA"
+    },
+    "price": 600000,
+    "img": "/images/property-12.jpg",
+    "bedrooms": 7
+  },
+  {
+    "id": 13,
+    "name": "Rustic Farmhouse",
+    "location": {
+      "address": "123 Old Mill Rd",
+      "city": "Madison",
+      "state": "WI",
+      "zipCode": "53703",
+      "country": "USA"
+    },
+    "price": 750000,
+    "img": "/images/property-13.jpg",
+    "bedrooms": 2
+  },
+  {
+    "id": 14,
+    "name": "City Penthouse",
+    "location": {
+      "address": "789 City Blvd",
+      "city": "Houston",
+      "state": "TX",
+      "zipCode": "77002",
+      "country": "USA"
+    },
+    "price": 2200000,
+    "img": "/images/property-14.jpg",
+    "bedrooms": 3
+  },
+  {
+    "id": 15,
+    "name": "Coastal Bungalow",
+    "location": {
+      "address": "456 Seaside Ln",
+      "city": "Santa Monica",
+      "state": "CA",
+      "zipCode": "90401",
+      "country": "USA"
+    },
+    "price": 850000,
+    "img": "/images/property-15.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 16,
+    "name": "Golf Course Villa",
+    "location": {
+      "address": "321 Fairway Dr",
+      "city": "Scottsdale",
+      "state": "AZ",
+      "zipCode": "85251",
+      "country": "USA"
+    },
+    "price": 1100000,
+    "img": "/images/property-16.jpg",
+    "bedrooms": 1
+  },
+  {
+    "id": 17,
+    "name": "Urban Loft",
+    "location": {
+      "address": "678 Market St",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202",
+      "country": "USA"
+    },
+    "price": 750000,
+    "img": "/images/property-17.jpg",
+    "bedrooms": 3
+  },
+  {
+    "id": 18,
+    "name": "Luxury Mansion",
+    "location": {
+      "address": "123 Elite Blvd",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "zipCode": "90210",
+      "country": "USA"
+    },
+    "price": 5000000,
+    "img": "/images/property-18.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 19,
+    "name": "Charming Cottage",
+    "location": {
+      "address": "789 Garden St",
+      "city": "Savannah",
+      "state": "GA",
+      "zipCode": "31401",
+      "country": "USA"
+    },
+    "price": 400000,
+    "img": "/images/property-19.jpg",
+    "bedrooms": 4
+  },
+  {
+    "id": 20,
+    "name": "Modern Townhouse",
+    "location": {
+      "address": "456 Maple Ave",
+      "city": "Seattle",
+      "state": "WA",
+      "zipCode": "98101",
+      "country": "USA"
+    },
+    "price": 950000,
+    "img": "/images/property-20.jpg",
+    "bedrooms": 4
+  }
+]
