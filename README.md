@@ -10,7 +10,8 @@ Cart with Checkout: Manage cart items and proceed to checkout for property purch
 Real-Time Updates: Ensure the latest information and interactions are reflected immediately.
 
 Setup and Running the Project
-Clone the Repository
+
+Fork the project
 
 git clone https://github.com/yourusername/yourproject.git
 
